@@ -1,0 +1,4 @@
+- Getting Started
+  - [Getting Ready for Class](./getting_started/01_getting_ready_for_class.md)
+  - [Getting Started](./getting_started/02_getting_started.md)
+  - [GitHub Flow](./getting_started/03_github_flow.md)
